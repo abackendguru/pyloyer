@@ -17,3 +17,7 @@ Zero downtime deployments. Did something go wrong?  Rollback to the previous rel
 **Recipes**
 
 Ready to use recipes for most frameworks such as FastAPI, Flask, Django,...and more.
+
+**Productivity**
+
+Easy management with built-in Dashboard for aplications, nginx configs, ...
